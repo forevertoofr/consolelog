@@ -1,1 +1,1 @@
-# Go to log-system.github.io
+# Go to github.com/log-system
